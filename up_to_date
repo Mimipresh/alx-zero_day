@@ -2,5 +2,6 @@ git add .
 git commit -m 
 git push
 git pull
+git checkout -b <branch name>
 git checkout <branch name>
 git branch <branch name>
